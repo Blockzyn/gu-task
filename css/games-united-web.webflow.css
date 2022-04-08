@@ -3881,6 +3881,10 @@
   text-align: center;
 }
 
+.div-block-137 {
+  display: none;
+}
+
 @media screen and (min-width: 1280px) {
   .paragraph-6 {
     text-align: justify;
