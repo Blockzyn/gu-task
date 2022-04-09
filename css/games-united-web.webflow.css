@@ -6667,6 +6667,24 @@
     max-width: 50%;
   }
 
+  .bold-text-7 {
+    font-size: 18px;
+    line-height: 25px;
+  }
+
+  .paragraph-39 {
+    background-color: transparent;
+  }
+
+  .div-block-146 {
+    max-width: 65%;
+    background-color: rgba(132, 157, 227, 0.21);
+    font-family: Myriadpro, sans-serif;
+    font-size: 18px;
+    line-height: 25px;
+    font-weight: 600;
+  }
+
   .image-72 {
     max-width: 35%;
   }
