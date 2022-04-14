@@ -127,7 +127,7 @@
   display: -ms-flexbox;
   display: flex;
   overflow: hidden;
-  padding-left: 160px;
+  padding-left: 100px;
   -webkit-justify-content: space-around;
   -ms-flex-pack: distribute;
   justify-content: space-around;
