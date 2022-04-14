@@ -4348,10 +4348,15 @@
   justify-content: flex-end;
 }
 
+.body-2 {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#000), color-stop(0%, rgba(242, 220, 233, 0.55)), color-stop(50%, #d7cece), to(#daebef));
+  background-image: linear-gradient(180deg, #000, rgba(242, 220, 233, 0.55) 0%, #d7cece 50%, #daebef);
+}
+
 @media screen and (min-width: 1280px) {
   .nav-menu {
     margin-left: 100px;
-    padding-left: 60px;
+    padding-left: 0px;
   }
 
   .paragraph-6 {
@@ -4547,7 +4552,7 @@
 
   .nav-menu {
     margin-left: 60px;
-    padding-left: 20px;
+    padding-left: 0px;
   }
 
   .heading-3 {
