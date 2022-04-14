@@ -2911,37 +2911,46 @@
   background-color: transparent;
   font-family: Quicksilver, sans-serif;
   color: #fff;
+  font-size: 13px;
   font-weight: 600;
+  letter-spacing: 1px;
   text-decoration: none;
 }
 
 .link-5 {
   font-family: Quicksilver, sans-serif;
   color: #fff;
+  font-size: 13px;
+  letter-spacing: 1px;
   text-decoration: none;
 }
 
 .link-6 {
   font-family: Quicksilver, sans-serif;
   color: #fff;
+  font-size: 13px;
   text-decoration: none;
 }
 
 .link-7 {
   font-family: Quicksilver, sans-serif;
   color: #fff;
+  font-size: 13px;
   text-decoration: none;
 }
 
 .link-8 {
   font-family: Quicksilver, sans-serif;
   color: #fff;
+  font-size: 13px;
   text-decoration: none;
 }
 
 .link-9 {
   font-family: Quicksilver, sans-serif;
   color: #fff;
+  font-size: 13px;
+  letter-spacing: 1px;
   text-decoration: none;
 }
 
@@ -4316,16 +4325,27 @@
   display: -ms-flexbox;
   display: flex;
   padding-top: 0px;
-  -webkit-box-pack: center;
-  -webkit-justify-content: center;
-  -ms-flex-pack: center;
-  justify-content: center;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
 }
 
 .image-76 {
   width: 800px;
   max-width: 25%;
   padding-left: 0px;
+}
+
+.div-block-153 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
 }
 
 @media screen and (min-width: 1280px) {
@@ -6077,14 +6097,17 @@
 
   .link-6 {
     font-size: 16px;
+    letter-spacing: 1px;
   }
 
   .link-7 {
     font-size: 16px;
+    letter-spacing: 1px;
   }
 
   .link-8 {
     font-size: 16px;
+    letter-spacing: 1px;
   }
 
   .link-9 {
