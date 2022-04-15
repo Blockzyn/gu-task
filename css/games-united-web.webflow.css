@@ -940,7 +940,7 @@
   margin-bottom: 80px;
   grid-column-gap: 30px;
   grid-row-gap: 30px;
-  grid-template-areas: ".";
+  grid-template-areas: '.';
   -ms-grid-columns: 1.5fr 30px 0.25fr 30px 1.5fr;
   grid-template-columns: 1.5fr 0.25fr 1.5fr;
   -ms-grid-rows: auto 30px auto;
@@ -1953,14 +1953,38 @@
 
 .page-1 {
   overflow: hidden;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(242, 220, 233, 0.55)), color-stop(50%, #d7cece), to(#daebef));
-  background-image: linear-gradient(180deg, rgba(242, 220, 233, 0.55), #d7cece 50%, #daebef);
+  background-image: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    from(rgba(242, 220, 233, 0.55)),
+    color-stop(50%, #d7cece),
+    to(#daebef)
+  );
+  background-image: linear-gradient(
+    180deg,
+    rgba(242, 220, 233, 0.55),
+    #d7cece 50%,
+    #daebef
+  );
 }
 
 .page-2 {
   overflow: hidden;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#daebef), color-stop(50%, #d7cece), to(rgba(242, 220, 233, 0.55)));
-  background-image: linear-gradient(180deg, #daebef, #d7cece 50%, rgba(242, 220, 233, 0.55));
+  background-image: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    from(#daebef),
+    color-stop(50%, #d7cece),
+    to(rgba(242, 220, 233, 0.55))
+  );
+  background-image: linear-gradient(
+    180deg,
+    #daebef,
+    #d7cece 50%,
+    rgba(242, 220, 233, 0.55)
+  );
 }
 
 .div-block-37 {
@@ -2119,8 +2143,20 @@
 
 .page-3 {
   overflow: hidden;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(242, 220, 233, 0.55)), color-stop(50%, #d7cece), to(#daebef));
-  background-image: linear-gradient(180deg, rgba(242, 220, 233, 0.55), #d7cece 50%, #daebef);
+  background-image: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    from(rgba(242, 220, 233, 0.55)),
+    color-stop(50%, #d7cece),
+    to(#daebef)
+  );
+  background-image: linear-gradient(
+    180deg,
+    rgba(242, 220, 233, 0.55),
+    #d7cece 50%,
+    #daebef
+  );
 }
 
 .heading-21 {
@@ -2232,8 +2268,20 @@
 
 .page-4 {
   overflow: hidden;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#daebef), color-stop(50%, #d7cece), to(rgba(242, 220, 233, 0.55)));
-  background-image: linear-gradient(180deg, #daebef, #d7cece 50%, rgba(242, 220, 233, 0.55));
+  background-image: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    from(#daebef),
+    color-stop(50%, #d7cece),
+    to(rgba(242, 220, 233, 0.55))
+  );
+  background-image: linear-gradient(
+    180deg,
+    #daebef,
+    #d7cece 50%,
+    rgba(242, 220, 233, 0.55)
+  );
 }
 
 .image-32 {
@@ -2317,8 +2365,20 @@
 .page-5 {
   overflow: hidden;
   padding-bottom: 60px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(242, 220, 233, 0.55)), color-stop(50%, #d7cece), to(#daebef));
-  background-image: linear-gradient(180deg, rgba(242, 220, 233, 0.55), #d7cece 50%, #daebef);
+  background-image: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    from(rgba(242, 220, 233, 0.55)),
+    color-stop(50%, #d7cece),
+    to(#daebef)
+  );
+  background-image: linear-gradient(
+    180deg,
+    rgba(242, 220, 233, 0.55),
+    #d7cece 50%,
+    #daebef
+  );
 }
 
 .div-block-50 {
@@ -2389,8 +2449,20 @@
 
 .page-6 {
   overflow: hidden;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#daebef), color-stop(50%, #d7cece), to(rgba(242, 220, 233, 0.55)));
-  background-image: linear-gradient(180deg, #daebef, #d7cece 50%, rgba(242, 220, 233, 0.55));
+  background-image: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    from(#daebef),
+    color-stop(50%, #d7cece),
+    to(rgba(242, 220, 233, 0.55))
+  );
+  background-image: linear-gradient(
+    180deg,
+    #daebef,
+    #d7cece 50%,
+    rgba(242, 220, 233, 0.55)
+  );
 }
 
 .image-33 {
@@ -2417,7 +2489,14 @@
 }
 
 .our-story {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#f2dce9), color-stop(50%, #d7cece), to(#daebef));
+  background-image: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    from(#f2dce9),
+    color-stop(50%, #d7cece),
+    to(#daebef)
+  );
   background-image: linear-gradient(180deg, #f2dce9, #d7cece 50%, #daebef);
 }
 
@@ -2503,8 +2582,20 @@
 .columns-18 {
   padding-top: 140px;
   padding-bottom: 140px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#daebef), color-stop(50%, #d7cece), to(rgba(242, 220, 233, 0.55)));
-  background-image: linear-gradient(180deg, #daebef, #d7cece 50%, rgba(242, 220, 233, 0.55));
+  background-image: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    from(#daebef),
+    color-stop(50%, #d7cece),
+    to(rgba(242, 220, 233, 0.55))
+  );
+  background-image: linear-gradient(
+    180deg,
+    #daebef,
+    #d7cece 50%,
+    rgba(242, 220, 233, 0.55)
+  );
 }
 
 .div-block-64 {
@@ -2512,8 +2603,20 @@
 }
 
 .our-partners {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(242, 220, 233, 0.55)), color-stop(50%, #d7cece), to(#fff));
-  background-image: linear-gradient(180deg, rgba(242, 220, 233, 0.55), #d7cece 50%, #fff);
+  background-image: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    from(rgba(242, 220, 233, 0.55)),
+    color-stop(50%, #d7cece),
+    to(#fff)
+  );
+  background-image: linear-gradient(
+    180deg,
+    rgba(242, 220, 233, 0.55),
+    #d7cece 50%,
+    #fff
+  );
 }
 
 .grid-2 {
@@ -2549,8 +2652,20 @@
 }
 
 .artuex {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(242, 220, 233, 0.55)), color-stop(50%, #d7cece), to(#daebef));
-  background-image: linear-gradient(180deg, rgba(242, 220, 233, 0.55), #d7cece 50%, #daebef);
+  background-image: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    from(rgba(242, 220, 233, 0.55)),
+    color-stop(50%, #d7cece),
+    to(#daebef)
+  );
+  background-image: linear-gradient(
+    180deg,
+    rgba(242, 220, 233, 0.55),
+    #d7cece 50%,
+    #daebef
+  );
 }
 
 .heading-27 {
@@ -2583,8 +2698,20 @@
 }
 
 .alwox {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#daebef), color-stop(50%, #d7cece), to(rgba(242, 220, 233, 0.55)));
-  background-image: linear-gradient(180deg, #daebef, #d7cece 50%, rgba(242, 220, 233, 0.55));
+  background-image: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    from(#daebef),
+    color-stop(50%, #d7cece),
+    to(rgba(242, 220, 233, 0.55))
+  );
+  background-image: linear-gradient(
+    180deg,
+    #daebef,
+    #d7cece 50%,
+    rgba(242, 220, 233, 0.55)
+  );
 }
 
 .header {
@@ -2621,8 +2748,20 @@
 }
 
 .dotfour {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(242, 220, 233, 0.55)), color-stop(50%, #d7cece), to(#daebef));
-  background-image: linear-gradient(180deg, rgba(242, 220, 233, 0.55), #d7cece 50%, #daebef);
+  background-image: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    from(rgba(242, 220, 233, 0.55)),
+    color-stop(50%, #d7cece),
+    to(#daebef)
+  );
+  background-image: linear-gradient(
+    180deg,
+    rgba(242, 220, 233, 0.55),
+    #d7cece 50%,
+    #daebef
+  );
 }
 
 .italic-text {
@@ -2634,13 +2773,37 @@
 }
 
 .bigpogo {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#daebef), color-stop(50%, #d7cece), to(rgba(242, 220, 233, 0.55)));
-  background-image: linear-gradient(180deg, #daebef, #d7cece 50%, rgba(242, 220, 233, 0.55));
+  background-image: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    from(#daebef),
+    color-stop(50%, #d7cece),
+    to(rgba(242, 220, 233, 0.55))
+  );
+  background-image: linear-gradient(
+    180deg,
+    #daebef,
+    #d7cece 50%,
+    rgba(242, 220, 233, 0.55)
+  );
 }
 
 .hype {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(242, 220, 233, 0.55)), color-stop(50%, #d7cece), to(#daebef));
-  background-image: linear-gradient(180deg, rgba(242, 220, 233, 0.55), #d7cece 50%, #daebef);
+  background-image: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    from(rgba(242, 220, 233, 0.55)),
+    color-stop(50%, #d7cece),
+    to(#daebef)
+  );
+  background-image: linear-gradient(
+    180deg,
+    rgba(242, 220, 233, 0.55),
+    #d7cece 50%,
+    #daebef
+  );
 }
 
 .text-block-8 {
@@ -2651,23 +2814,71 @@
 }
 
 .glossy {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#daebef), color-stop(50%, #d7cece), to(rgba(242, 220, 233, 0.55)));
-  background-image: linear-gradient(180deg, #daebef, #d7cece 50%, rgba(242, 220, 233, 0.55));
+  background-image: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    from(#daebef),
+    color-stop(50%, #d7cece),
+    to(rgba(242, 220, 233, 0.55))
+  );
+  background-image: linear-gradient(
+    180deg,
+    #daebef,
+    #d7cece 50%,
+    rgba(242, 220, 233, 0.55)
+  );
 }
 
 .hypebive {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(242, 220, 233, 0.55)), color-stop(50%, #d7cece), to(#daebef));
-  background-image: linear-gradient(180deg, rgba(242, 220, 233, 0.55), #d7cece 50%, #daebef);
+  background-image: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    from(rgba(242, 220, 233, 0.55)),
+    color-stop(50%, #d7cece),
+    to(#daebef)
+  );
+  background-image: linear-gradient(
+    180deg,
+    rgba(242, 220, 233, 0.55),
+    #d7cece 50%,
+    #daebef
+  );
 }
 
 .spike {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#daebef), color-stop(50%, #d7cece), to(rgba(242, 220, 233, 0.55)));
-  background-image: linear-gradient(180deg, #daebef, #d7cece 50%, rgba(242, 220, 233, 0.55));
+  background-image: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    from(#daebef),
+    color-stop(50%, #d7cece),
+    to(rgba(242, 220, 233, 0.55))
+  );
+  background-image: linear-gradient(
+    180deg,
+    #daebef,
+    #d7cece 50%,
+    rgba(242, 220, 233, 0.55)
+  );
 }
 
 .yilko {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(242, 220, 233, 0.55)), color-stop(50%, #d7cece), to(#daebef));
-  background-image: linear-gradient(180deg, rgba(242, 220, 233, 0.55), #d7cece 50%, #daebef);
+  background-image: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    from(rgba(242, 220, 233, 0.55)),
+    color-stop(50%, #d7cece),
+    to(#daebef)
+  );
+  background-image: linear-gradient(
+    180deg,
+    rgba(242, 220, 233, 0.55),
+    #d7cece 50%,
+    #daebef
+  );
 }
 
 .brand {
@@ -2703,8 +2914,20 @@
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(242, 220, 233, 0.55)), color-stop(50%, #d7cece), to(#daebef));
-  background-image: linear-gradient(180deg, rgba(242, 220, 233, 0.55), #d7cece 50%, #daebef);
+  background-image: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    from(rgba(242, 220, 233, 0.55)),
+    color-stop(50%, #d7cece),
+    to(#daebef)
+  );
+  background-image: linear-gradient(
+    180deg,
+    rgba(242, 220, 233, 0.55),
+    #d7cece 50%,
+    #daebef
+  );
 }
 
 .link {
@@ -2713,18 +2936,54 @@
 }
 
 .casual {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#daebef), color-stop(50%, #d7cece), to(rgba(242, 220, 233, 0.55)));
-  background-image: linear-gradient(180deg, #daebef, #d7cece 50%, rgba(242, 220, 233, 0.55));
+  background-image: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    from(#daebef),
+    color-stop(50%, #d7cece),
+    to(rgba(242, 220, 233, 0.55))
+  );
+  background-image: linear-gradient(
+    180deg,
+    #daebef,
+    #d7cece 50%,
+    rgba(242, 220, 233, 0.55)
+  );
 }
 
 .blockchain-nft {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(242, 220, 233, 0.55)), color-stop(50%, #d7cece), to(#daebef));
-  background-image: linear-gradient(180deg, rgba(242, 220, 233, 0.55), #d7cece 50%, #daebef);
+  background-image: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    from(rgba(242, 220, 233, 0.55)),
+    color-stop(50%, #d7cece),
+    to(#daebef)
+  );
+  background-image: linear-gradient(
+    180deg,
+    rgba(242, 220, 233, 0.55),
+    #d7cece 50%,
+    #daebef
+  );
 }
 
 .universe {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#daebef), color-stop(50%, #d7cece), to(rgba(242, 220, 233, 0.55)));
-  background-image: linear-gradient(180deg, #daebef, #d7cece 50%, rgba(242, 220, 233, 0.55));
+  background-image: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    from(#daebef),
+    color-stop(50%, #d7cece),
+    to(rgba(242, 220, 233, 0.55))
+  );
+  background-image: linear-gradient(
+    180deg,
+    #daebef,
+    #d7cece 50%,
+    rgba(242, 220, 233, 0.55)
+  );
 }
 
 .hypercasual-img {
@@ -2805,8 +3064,20 @@
 }
 
 .incub-centers {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(242, 220, 233, 0.55)), color-stop(50%, #d7cece), to(#daebef));
-  background-image: linear-gradient(180deg, rgba(242, 220, 233, 0.55), #d7cece 50%, #daebef);
+  background-image: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    from(rgba(242, 220, 233, 0.55)),
+    color-stop(50%, #d7cece),
+    to(#daebef)
+  );
+  background-image: linear-gradient(
+    180deg,
+    rgba(242, 220, 233, 0.55),
+    #d7cece 50%,
+    #daebef
+  );
 }
 
 .heading-29 {
@@ -2865,8 +3136,20 @@
 .game-academy {
   padding-top: 140px;
   padding-bottom: 140px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#daebef), color-stop(50%, #d7cece), to(rgba(242, 220, 233, 0.55)));
-  background-image: linear-gradient(180deg, #daebef, #d7cece 50%, rgba(242, 220, 233, 0.55));
+  background-image: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    from(#daebef),
+    color-stop(50%, #d7cece),
+    to(rgba(242, 220, 233, 0.55))
+  );
+  background-image: linear-gradient(
+    180deg,
+    #daebef,
+    #d7cece 50%,
+    rgba(242, 220, 233, 0.55)
+  );
 }
 
 .heading-32 {
@@ -2880,8 +3163,20 @@
 .university-relations {
   padding-top: 140px;
   padding-bottom: 140px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(242, 220, 233, 0.55)), color-stop(50%, #d7cece), to(#daebef));
-  background-image: linear-gradient(180deg, rgba(242, 220, 233, 0.55), #d7cece 50%, #daebef);
+  background-image: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    from(rgba(242, 220, 233, 0.55)),
+    color-stop(50%, #d7cece),
+    to(#daebef)
+  );
+  background-image: linear-gradient(
+    180deg,
+    rgba(242, 220, 233, 0.55),
+    #d7cece 50%,
+    #daebef
+  );
 }
 
 .heading-33 {
@@ -2932,8 +3227,20 @@
 .job-openings {
   padding-top: 140px;
   padding-bottom: 0px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(242, 220, 233, 0.55)), color-stop(50%, #d7cece), to(#daebef));
-  background-image: linear-gradient(180deg, rgba(242, 220, 233, 0.55), #d7cece 50%, #daebef);
+  background-image: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    from(rgba(242, 220, 233, 0.55)),
+    color-stop(50%, #d7cece),
+    to(#daebef)
+  );
+  background-image: linear-gradient(
+    180deg,
+    rgba(242, 220, 233, 0.55),
+    #d7cece 50%,
+    #daebef
+  );
 }
 
 .heading-34 {
@@ -2954,23 +3261,59 @@
 .internships {
   padding-top: 80px;
   padding-bottom: 140px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#daebef), color-stop(50%, #d7cece), to(rgba(242, 220, 233, 0.55)));
-  background-image: linear-gradient(180deg, #daebef, #d7cece 50%, rgba(242, 220, 233, 0.55));
+  background-image: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    from(#daebef),
+    color-stop(50%, #d7cece),
+    to(rgba(242, 220, 233, 0.55))
+  );
+  background-image: linear-gradient(
+    180deg,
+    #daebef,
+    #d7cece 50%,
+    rgba(242, 220, 233, 0.55)
+  );
 }
 
 .general-inquiries {
   padding-top: 0px;
   padding-bottom: 140px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(242, 220, 233, 0.55)), color-stop(50%, #d7cece), to(#daebef));
-  background-image: linear-gradient(180deg, rgba(242, 220, 233, 0.55), #d7cece 50%, #daebef);
+  background-image: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    from(rgba(242, 220, 233, 0.55)),
+    color-stop(50%, #d7cece),
+    to(#daebef)
+  );
+  background-image: linear-gradient(
+    180deg,
+    rgba(242, 220, 233, 0.55),
+    #d7cece 50%,
+    #daebef
+  );
 }
 
 .join-our-family {
   display: none;
   padding-top: 140px;
   padding-bottom: 140px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#daebef), color-stop(50%, #d7cece), to(rgba(242, 220, 233, 0.55)));
-  background-image: linear-gradient(180deg, #daebef, #d7cece 50%, rgba(242, 220, 233, 0.55));
+  background-image: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    from(#daebef),
+    color-stop(50%, #d7cece),
+    to(rgba(242, 220, 233, 0.55))
+  );
+  background-image: linear-gradient(
+    180deg,
+    #daebef,
+    #d7cece 50%,
+    rgba(242, 220, 233, 0.55)
+  );
 }
 
 .link-4 {
@@ -4442,10 +4785,12 @@
 
 .textarea {
   max-width: 500px;
+  background-color: #fff;
 }
 
 .textarea:hover {
   background-color: #000;
+  color: #fff;
 }
 
 .form-2 {
@@ -4484,13 +4829,37 @@
 }
 
 .section-4 {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#daebef), color-stop(50%, #d7cece), to(rgba(242, 220, 233, 0.55)));
-  background-image: linear-gradient(180deg, #daebef, #d7cece 50%, rgba(242, 220, 233, 0.55));
+  background-image: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    from(#daebef),
+    color-stop(50%, #d7cece),
+    to(rgba(242, 220, 233, 0.55))
+  );
+  background-image: linear-gradient(
+    180deg,
+    #daebef,
+    #d7cece 50%,
+    rgba(242, 220, 233, 0.55)
+  );
 }
 
 .section-5 {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(242, 220, 233, 0.55)), color-stop(50%, #d7cece), to(#daebef));
-  background-image: linear-gradient(180deg, rgba(242, 220, 233, 0.55), #d7cece 50%, #daebef);
+  background-image: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    from(rgba(242, 220, 233, 0.55)),
+    color-stop(50%, #d7cece),
+    to(#daebef)
+  );
+  background-image: linear-gradient(
+    180deg,
+    rgba(242, 220, 233, 0.55),
+    #d7cece 50%,
+    #daebef
+  );
 }
 
 .paragraph-40 {
@@ -4527,6 +4896,7 @@
 
 .text-field-6:hover {
   background-color: #000;
+  color: #fff;
 }
 
 .div-block-158 {
@@ -4548,6 +4918,17 @@
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
+}
+
+.submit-button-2 {
+  background-color: #e60000;
+}
+
+.submit-button-2:hover {
+  border-style: solid;
+  border-color: #000;
+  background-color: #000;
+  color: #fff;
 }
 
 .checkbox-label {
@@ -6080,7 +6461,7 @@
     grid-auto-columns: 1fr;
     grid-column-gap: 16px;
     grid-row-gap: 16px;
-    grid-template-areas: "Area";
+    grid-template-areas: 'Area';
     -ms-grid-columns: minmax(200px, 4fr) 16px 4fr 16px 4fr 16px 4fr;
     grid-template-columns: minmax(200px, 4fr) 4fr 4fr 4fr;
     -ms-grid-rows: 339px 16px auto;
@@ -7259,8 +7640,20 @@
     -webkit-align-items: center;
     -ms-flex-align: center;
     align-items: center;
-    background-image: -webkit-gradient(linear, left top, left bottom, from(#daebef), color-stop(50%, #d7cece), to(rgba(242, 220, 233, 0.55)));
-    background-image: linear-gradient(180deg, #daebef, #d7cece 50%, rgba(242, 220, 233, 0.55));
+    background-image: -webkit-gradient(
+      linear,
+      left top,
+      left bottom,
+      from(#daebef),
+      color-stop(50%, #d7cece),
+      to(rgba(242, 220, 233, 0.55))
+    );
+    background-image: linear-gradient(
+      180deg,
+      #daebef,
+      #d7cece 50%,
+      rgba(242, 220, 233, 0.55)
+    );
   }
 
   .section-5 {
@@ -7279,8 +7672,20 @@
     -webkit-align-items: center;
     -ms-flex-align: center;
     align-items: center;
-    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(242, 220, 233, 0.55)), color-stop(50%, #d7cece), to(#daebef));
-    background-image: linear-gradient(180deg, rgba(242, 220, 233, 0.55), #d7cece 50%, #daebef);
+    background-image: -webkit-gradient(
+      linear,
+      left top,
+      left bottom,
+      from(rgba(242, 220, 233, 0.55)),
+      color-stop(50%, #d7cece),
+      to(#daebef)
+    );
+    background-image: linear-gradient(
+      180deg,
+      rgba(242, 220, 233, 0.55),
+      #d7cece 50%,
+      #daebef
+    );
   }
 
   .paragraph-40 {
@@ -11392,8 +11797,20 @@
   }
 
   .page-1 {
-    background-image: -webkit-gradient(linear, left top, left bottom, from(#daebef), color-stop(50%, #d7cece), to(rgba(242, 220, 233, 0.55)));
-    background-image: linear-gradient(180deg, #daebef, #d7cece 50%, rgba(242, 220, 233, 0.55));
+    background-image: -webkit-gradient(
+      linear,
+      left top,
+      left bottom,
+      from(#daebef),
+      color-stop(50%, #d7cece),
+      to(rgba(242, 220, 233, 0.55))
+    );
+    background-image: linear-gradient(
+      180deg,
+      #daebef,
+      #d7cece 50%,
+      rgba(242, 220, 233, 0.55)
+    );
   }
 
   .div-block-37 {
@@ -12355,7 +12772,12 @@
   }
 
   .section-4 {
-    background-image: repeating-linear-gradient(180deg, #daebef, #d7cece 50%, rgba(242, 220, 233, 0.55));
+    background-image: repeating-linear-gradient(
+      180deg,
+      #daebef,
+      #d7cece 50%,
+      rgba(242, 220, 233, 0.55)
+    );
   }
 
   .section-5 {
@@ -12677,7 +13099,11 @@
 
 @font-face {
   font-family: 'Myriadpro';
-  src: url('../fonts/MYRIADPRO-BOLD.OTF') format('opentype'), url('../fonts/MYRIADPRO-BOLDIT.OTF') format('opentype'), url('../fonts/MYRIADPRO-BOLDCONDIT.OTF') format('opentype'), url('../fonts/MYRIADPRO-BOLD.OTF') format('opentype'), url('../fonts/MYRIADPRO-BOLDCOND.OTF') format('opentype');
+  src: url('../fonts/MYRIADPRO-BOLD.OTF') format('opentype'),
+    url('../fonts/MYRIADPRO-BOLDIT.OTF') format('opentype'),
+    url('../fonts/MYRIADPRO-BOLDCONDIT.OTF') format('opentype'),
+    url('../fonts/MYRIADPRO-BOLD.OTF') format('opentype'),
+    url('../fonts/MYRIADPRO-BOLDCOND.OTF') format('opentype');
   font-weight: 700;
   font-style: normal;
   font-display: swap;
@@ -12691,7 +13117,8 @@
 }
 @font-face {
   font-family: 'Myriadpro';
-  src: url('../fonts/MYRIADPRO-SEMIBOLD.OTF') format('opentype'), url('../fonts/MYRIADPRO-SEMIBOLDIT.OTF') format('opentype');
+  src: url('../fonts/MYRIADPRO-SEMIBOLD.OTF') format('opentype'),
+    url('../fonts/MYRIADPRO-SEMIBOLDIT.OTF') format('opentype');
   font-weight: 600;
   font-style: normal;
   font-display: swap;
@@ -12719,7 +13146,8 @@
 }
 @font-face {
   font-family: 'Myriadpro';
-  src: url('../fonts/MyriadPro-Light.otf') format('opentype'), url('../fonts/MyriadPro-Light.otf') format('opentype');
+  src: url('../fonts/MyriadPro-Light.otf') format('opentype'),
+    url('../fonts/MyriadPro-Light.otf') format('opentype');
   font-weight: 300;
   font-style: normal;
   font-display: swap;
