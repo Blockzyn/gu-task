@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!--  Last Published: Thu Apr 14 2022 10:44:39 GMT+0000 (Coordinated Universal Time)  -->
+<!--  Last Published: Fri Apr 15 2022 14:17:54 GMT+0000 (Coordinated Universal Time)  -->
 <html
   data-wf-page="624dbecac7f31482288cb070"
   data-wf-site="624373b0a36720631cd1fd01"
@@ -307,16 +307,15 @@
                 class="form"
                 target="_blank"
               >
-                <select
+                <label for="Departmants"
+                  >Departmants <span class="text-span-2">*</span></label
+                ><select
                   id="Departmants"
                   name="Departmants"
                   data-name="Departmants"
                   required=""
-                  class="w-select"
+                  class="departmants-tag w-select"
                 >
-                  <label for="Departmants"
-                    >Departmants <span class="text-span-2">*</span></label
-                  >
                   <option value="">Departmants</option>
                   <option value="First">Marketing Artist</option>
                   <option value="Second">Big Data &amp; BI</option>
@@ -325,9 +324,8 @@
                   <option value="Another option">People and Culture</option>
                   <option value="Another option">Art Director</option>
                   <option value="Another option">Lead Game Developer</option>
-                  <option value="Another option">Web3 Developer</option>
-                </select>
-                <label for="name-2"
+                  <option value="Another option">Web3 Developer</option></select
+                ><label for="name-2"
                   >Full Name <span class="text-span"> *</span></label
                 ><input
                   type="text"
@@ -398,26 +396,28 @@
                   required=""
                 /><label for="email-3"
                   >Privacy Policy <span class="text-span-2">*</span></label
-                ><label class="w-radio"
+                ><label class="w-checkbox"
                   ><input
-                    type="radio"
-                    name="radio"
-                    id="radio"
-                    value="Radio"
-                    data-name="Radio"
-                    required=""
-                    class="w-form-formradioinput w-radio-input"
-                  /><span class="radio-button-label w-form-label" for="radio"
-                    >I read
+                    type="checkbox"
+                    id="checkbox"
+                    name="checkbox"
+                    data-name="Checkbox"
+                    class="w-checkbox-input"
+                  /><span class="checkbox-label w-form-label" for="checkbox"
+                    ><strong>I read </strong>
                     <a
                       href="https://www.gamesunited.co/wp-content/uploads/2022/02/04.02.2022_GU_privacypolicy_cleanversion.pdf"
                       target="_blank"
                       class="link-10"
-                      >Statement of Personal Data Protection Law (KVKK)</a
+                      ><strong
+                        >Statement of Personal Data Protection Law
+                        (KVKK)</strong
+                      ></a
+                    ><strong>
+                      and I consent to the processing of my information for my
+                      application as described in the Consent Letter.</strong
                     >
-                    and I consent to the processing of my information for my
-                    application as described in the Consent Letter.</span
-                  ></label
+                  </span></label
                 ><input
                   type="submit"
                   value="Submit"
