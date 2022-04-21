@@ -823,6 +823,10 @@
   background-color: #000;
 }
 
+.body {
+  overflow: hidden;
+}
+
 .centered-container-4 {
   display: -webkit-box;
   display: -webkit-flex;
@@ -2251,11 +2255,19 @@
 
 .image-32 {
   position: absolute;
+  display: block;
   overflow: hidden;
-  margin-top: -100px;
+  margin-top: -84px;
   margin-right: 0px;
-  margin-left: 100px;
+  margin-left: 0px;
+  padding-left: 0px;
   clear: none;
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 auto;
+  -ms-flex: 0 auto;
+  flex: 0 auto;
+  -o-object-fit: fill;
+  object-fit: fill;
 }
 
 .div-block-46 {
@@ -2428,6 +2440,7 @@
   display: inline-block;
   overflow: hidden;
   margin-top: -50px;
+  margin-left: -80px;
 }
 
 .div-block-54 {
@@ -2436,7 +2449,7 @@
   display: -ms-flexbox;
   display: flex;
   overflow: hidden;
-  margin-right: -80px;
+  margin-right: -70px;
   padding-right: 0px;
   padding-bottom: 140px;
   -webkit-box-pack: end;
@@ -3821,6 +3834,7 @@
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
+  overflow: hidden;
 }
 
 .image-58 {
@@ -4427,6 +4441,7 @@
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
+  overflow: hidden;
   padding-top: 60px;
   -webkit-box-pack: start;
   -webkit-justify-content: flex-start;
@@ -6186,6 +6201,7 @@
 
   .image-32 {
     overflow: hidden;
+    margin-top: -60px;
   }
 
   .div-block-46 {
