@@ -2264,7 +2264,9 @@
   display: -ms-flexbox;
   display: flex;
   overflow: hidden;
+  margin-top: -13px;
   margin-bottom: 0px;
+  padding-top: 0px;
   padding-bottom: 0px;
   float: none;
   clear: none;
@@ -2336,7 +2338,7 @@
 
 .div-block-50 {
   overflow: hidden;
-  margin-top: -80px;
+  margin-top: -144px;
   margin-left: -50px;
 }
 
@@ -2370,6 +2372,7 @@
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
+  padding-top: 220px;
   -webkit-box-pack: center;
   -webkit-justify-content: center;
   -ms-flex-pack: center;
@@ -3170,6 +3173,7 @@
 }
 
 .image-41 {
+  position: absolute;
   overflow: hidden;
 }
 
@@ -4406,6 +4410,7 @@
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
+  margin-top: -75px;
   padding-top: 0px;
   -webkit-box-pack: start;
   -webkit-justify-content: flex-start;
