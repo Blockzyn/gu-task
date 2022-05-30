@@ -1,0 +1,442 @@
+GAMES UNİTED YAZILIM EĞİTİM SANAYİ TİCARET A.Ş
+TERMS OF USE
+Effective Date: [22.12.2021]
+
+1. INTRODUCTION
+
+1.1. These Terms of Use (“Terms of Service” or “Terms”) govern the relationship between you and
+Games United Yazılım Eğitim Sanayi Ticaret A.Ş (together with its parents, subsidiaries, joint ventures
+and other corporate entities under common ownership and/or any of their agents, consultants,
+employees, representatives, affiliates, officers, and directors, “Games United” or “we” or “us”)
+regarding your access to and use of Games United’s games, mobile applications, websites, content,
+products, and any services related to games that are made available by Games United on the Apple App
+Store, Google Play App Store, Amazon App Store or on Facebook (collectively the “Services”).
+1.2. When you use or access our Services in any capacity, you represent that you are at least 13
+years old (or at least 16, if you reside in the European Economic Area (the “EEA”)) and that you
+understand and agree to these Terms. If you are under the age of 18 and at least 13 years old (or at least
+16, if you reside in the EEA), you agree that you have gotten permission from a parent or guardian to
+use our Services. No one under the age of 13 (or under 16, if you reside in the EEA), in which case
+must not create an Account, use any of our Services, or submit personal information in the Services or
+to Games United. If you access our Services through a third-party platform or site, you may be required
+to comply with their policies in addition to these Terms.
+1.3. Our collection and use of personal data in connection with Services is described in our Privacy
+Policy, which is incorporated by reference into these Terms.
+1.4. We may amend these Terms by posting the amended versions on our website or in the
+supplemental terms of the applicable Service(s). By continuing to access or use our Services after we
+post amended versions, you confirm your agreement to the Terms, as amended. If you do not agree with
+any of the changes, you must immediately stop accessing our Services and your license to use our
+Services will immediately terminate. Games United may make changes to the Services at any time or
+discontinue your access to the Services at any time without warning and without a refund of any kind.
+You understand and hereby agree that Games United may discontinue or restrict your use of the Services
+for any reason and without notice or compensation.
+1.5. This is a legally binding agreement, and you should read it carefully. By installing, using, or
+otherwise accessing our Services, you confirm your agreement to be bound by these Terms. If you do
+not agree with any of these terms, you may not install, use, or otherwise access our Services.
+1.6. Please note that the section below titled “GOVERNING LAW AND DISPUTE
+RESOLUTION” contains a binding arbitration agreement and class action waiver. they affect your legal
+rights. Please read them.
+1.7. You may only use this Services and any materials found in this Services (including, but not
+limited to, any images, logos, designs, insignia, marks, pictures, sounds, text, messages, tools, software,
+technology, products, files, information, data, demos, promotional materials, audio-visual and
+multimedia works and any other items or expressions) (collectively, "Materials") in accordance with
+this Terms and you agree to comply with these Terms at all times.
+
+2. LIMITED LICENSE
+
+2.1. Subject to your agreement and your continued compliance with these Terms and all relevant
+Games United policies, Games United grants you a non-exclusive, non-transferable, non-sublicensable,
+revocable limited license (subject to the limitations below) to access and use the Services for your own
+personal (i.e. non-commercial) use only. Such license is subject to these Terms and does not include:
+(i) any commercial use of Services or the Materials therein;
+(ii) the distribution, public performance, public display, making publicly available, or other
+unauthorized exploitation of any Materials;
+(iii) modifying or otherwise making any derivative uses of Services or the Materials, or any portion
+thereof;
+(iv) downloading (other than the page caching) of any portion of Services, the Materials or any
+information contained therein, except as expressly permitted on the Games United webiste; or
+(v) any Services or the Materials other than for their intended purposes.
+2.2. Any Services or the Materials other than as specifically authorized herein, without the prior
+written permission of Games United, is strictly prohibited and will terminate the license granted herein.
+Such unauthorized use may also violate applicable laws, including without limitation copyright and
+trademark laws and applicable communications regulations and statutes. Unless explicitly stated herein,
+nothing in these Terms shall be construed as conferring any license to intellectual property rights,
+whether by estoppel, implication or otherwise. Games United may revoke this license at any time.
+2.3. Restrictions
+2.3.1. You specifically agree to the following license restrictions in connection with Services:
+(i) If you have been previously banned from accessing our Services, you are prohibited from reaccessing Services.
+(ii) You are prohibited from using our Services for commercial purposes.
+(iii) You are prohibited from using our Services to advertise, solicit, or transmit any commercial
+advertisements, which include but are not limited to chain letters, junk, spam, or repetitive
+messaging (both targeted and un-targeted).
+(iv) You are prohibited from creating an Account on someone else’s behalf.
+(v) You are prohibited from creating an Account using inaccurate or false information.
+(vi) You are prohibited from renting, selling, gifting, or giving away your Account or Accountrelated information.
+(vii) You are prohibited from selling or transferring prizes or rewards obtained in connection with
+Services to any other person or entity.
+(viii)You are prohibited from removing, obscuring or altering any notice of copyright or other
+proprietary notices present on or in any Materials.
+2.3.2. You further agree that under no circumstance will you:
+(i) Engage in acts that are inappropriate and/or in conflict with the spirit or intent of Services or
+these Terms.
+(ii) Attempt to gain unauthorized access to, circumvent, modify, disrupt, overburden, or otherwise
+impair any aspect of our Services (including Accounts of others) or related technology, devices,
+systems or networks.
+(iii) Engage in unlawful, abusive, threatening, obscene, defamatory, libelous, harassing, hateful,
+violent, racist, or otherwise objectionable or offensive acts, whether by posting and/or
+transmitting such information through our Services, or by any other means (e.g., by posting
+links to such content).
+(iv) Engage in acts or attempts to abuse, threaten, harm, harass, or advocate or incite harassment
+and/or violence towards another person, group, our employee(s) or our Services, or engage in
+any acts in violation of other publicly posted Games United policies (e.g. forum rules).
+(v) Use our Services to post, supply or make available any material or information that infringes
+on any copyright, trademark, patent, trade secret, right of privacy, right of publicity, or any
+other right of a person or entity.
+(vi) Use our Services to post, display, or transmit any other person or entity’s private information,
+including personally identifiable and/or financial information.
+(vii) Copy or reproduce (except as expressly permitted), translate, reverse engineer, derive source
+code from, modify, disassemble, decompile, or create derivative works based on or related to
+Services.
+(viii) Scrape, harvest, or extract data from Services.
+(ix) Seek to obtain advantage or information from our Services using methods not expressly
+permitted by Games United.
+(x) Engage in solicitation or attempted solicitation of personal information from other users of our
+Services.
+(xi) Institute, engage in, assist with, or become involved in any form of attacks upon our Services,
+including but not limited to denial-of-service attacks, creation or distribution of viruses or
+malware, or attempts to disrupt our Services or others’ enjoyment of our Services.
+(xii) Create, use, offer, promote, advertise, make available, and/or distribute exploits, cheats, bots,
+software, hacks, mods or any unauthorized third-party code or software that can be used to
+interfere with, alter or modify our Services, or that can be used in conjunction with our Services.
+(xiii) Impersonate another person, including without limitation any other user or any Games United
+employee.
+(xiv) Use our Services to violate any applicable law or regulation and order of any governmental
+authority in your use of this Services and the Materials
+(xv) Use our Services for any activities other than what are reasonably considered the common and
+usual activities associated with Services for general entertainment
+(xvi) Avoid, bypass, remove, deactivate, impair, descramble or otherwise circumvent any
+technological measure implemented by Games United or any of Games United’s providers or
+any other Third Party (including another user) to protect the Services
+(xvii) Send any unsolicited or unauthorized advertising, promotional materials, email, junk mail,
+spam, chain letters or other form of solicitation
+(xviii) Forge any TCP/IP packet header or any part of the header information in any email or
+newsgroup posting or in any way use the Services to send altered, deceptive or false sourceidentifying information
+2.4. Access or Use of Services Associated with Your Account
+2.4.1. When you access or use Services, you create an account with us (“Account”). In some cases,
+you may be asked to create a username and password (collectively known as “Login Information”). In
+the following cases not caused by Games United;
+You are responsible for all use of Services and activity related to your Account, including all
+transactions and payments associated with that Account (which may include but are not limited to the
+use of your credit card and other payment systems). Thus, Games United strongly encourages you to
+keep your password safe and never to give your Account information to anyone else. You agree to
+maintain accurate, complete, and up-to-date information in your Account, and our Privacy Policy
+describes how you can keep your personal information up-to-date. It is your sole responsibility to
+maintain the confidentiality of your Login Information.
+2.4.2. You agree not to engage in any acts that may compromise the integrity, fair play and/or security
+of your Account, including but not limited to sharing Login Information or permitting unauthorized
+access, loss, or theft. If you learn or suspect that your Account has been compromised, please contact
+us immediately. We also urge you to modify your Login Information to prevent further damage. We
+will not be responsible to you for any losses or harm you may suffer as a result of an unauthorized
+person accessing your Account and/or using your Login Information in connection with our Services.
+2.4.3. You are solely responsible for your interactions with other users of our Services and any other
+parties with whom you interact through Services. We reserve the right, but have no obligation, to
+become involved with any disputes related to those interactions. You agree to fully cooperate with us
+to investigate any suspected unlawful, fraudulent or improper activity, including, without limitation, by
+granting us access to any password-protected portions of your Account as may be required. If you have
+a dispute with any other user(s), you release us from claims, demands and damages (actual and
+consequential) of every kind and nature, known and unknown, arising out of or related to such disputes.
+2.4.4. We reserve the right to reclaim and/or remove any usernames at our discretion at any time, for
+any reason. You may have only one Account per game on a properly supported device.
+2.5 Suspension and Termination of Account and Services
+2.5.1. Without limiting any other remedies, we may suspend, terminate, delete, limit, or modify
+Accounts or access to Services or any portions thereof, hold, delay, or remove hosted content, take legal
+and technical steps to prevent access to Services, or take other action consistent with these Terms, with
+or without notice to you, if we suspect or determine, in our sole discretion, that you have failed to
+comply with any of these Terms or have otherwise engaged in illegal activity or improper use of our
+Services. This may result in the loss or termination of your Account, information, persona, rankings,
+benefits, Virtual Items defined in Section 5 below, in-game purchases, or other losses. We are not and
+will not be held responsible for loss of any Account, information, persona, rankings, benefits, Virtual
+Items, in-game purchases, or other losses incurred, and are under no obligation to compensate you
+therefor.
+2.5.2. We reserve the right to stop offering and/or supporting our Services or any portion thereof,
+including but not limited to any particular game, at any time for any reason. If this does occur, your
+license to access or use the applicable Services will automatically terminate and you may lose access to
+any content that you may have submitted or were in the process of submitting. We reserve the right to
+terminate any Account that has been inactive for 180 days or more. We are not required to notify you
+in advance of these actions, or to provide you any refunds, compensation, or any material or nonmaterial benefit for discontinued or terminated Services or losses resulting therefrom.
+2.5.3. You may choose to close your Account for any reason and at any time. If you choose to exercise
+this right, please inform Games United that you wish to close your Account by
+2.5.4. emailing privacy@gamesunited.co and requesting that your Account be closed. You understand
+that if you close your Account, you may no longer have access to information previously associated
+with your Account (including, without limitation, your game progress and any Virtual Items associated
+with your Account).
+
+3. OWNERSHIP
+
+3.1. The Services and all rights, title and interest therein are and shall remain the property of Games
+United or its licensors. This may include without limitation all games, mobile applications, software
+(including server software), websites, titles, characters, character names or profiles, stories, dialogue,
+animations, art, concepts, content, audio sounds and effects, musical compositions, visual effects,
+methods of operation, documentation, moral rights, in-game chat transcripts, all recordings of games
+and game play, and Virtual Items appearing and/or originating in our Services, whether provided, earned
+or purchased. Neither these Terms nor your use of Services convey or grant to you any rights:
+(i) in or related to Services, except for the limited license granted above; or
+(ii) to use or reference Games United or its licensors’ company name(s), logos, product and service
+names, or marks.
+3.2. You acknowledge and agree that you will have no ownership or other property interest in any
+Account created in connection with Services. You further acknowledge and agree that all interest in and
+rights to any such Account are and will be owned in perpetuity by and solely for the benefit of Games
+United.
+
+4. USER CONTENT
+
+4.1. While Games United welcomes your comments and feedback regarding its Services, Games
+United does not accept or consider any materials for use in any of its Services which have not been
+specifically requested by Games United. In the event that you submit, upload, publish, transmit, or
+otherwise make available to us materials, data, information, communications, pictures, sounds or any
+other legal content using Services (“User Content”), you understand and agree to the following terms:
+(i) You hereby grant to Games United a perpetual, irrevocable, royalty-free, worldwide, fully paid
+up, non-exclusive, sub-licensable right and license to exploit the User Content and all elements
+thereof, in any and all media, formats and forms, known now or hereafter devised. Games United
+shall have the unlimited right to copy, reproduce, fix, modify, adapt, translate, reformat, prepare
+derivatives, add to and delete from, rearrange and transpose, manufacture, commercialize, publish,
+distribute, sell, license, sublicense, transfer, rent, lease, transmit, publicly display, make publicly
+available, publicly perform, provide access to, broadcast, use and practice the User Content as well
+as all modified and derivative works thereof and any and all elements contained therein, and use or
+incorporate a portion or portions of the User Content or the elements thereof in conjunction with or
+into any other material, without notice to or consent from you, and without compensation to you or
+any other person or entity.
+(ii) In the event you upload or otherwise transmit to Games United any concepts, ideas, or feedback
+relating to Games United’s Services, you shall not be entitled to any compensation for any such
+submission, unless expressly agreed between you and Games United, and Games United may freely
+use any such submission in any manner it deems appropriate. You further hereby grant to Games
+United the unconditional, irrevocable right to use and exploit your name, likeness and any other
+information or material submitted or transmitted to Games United in connection with any User
+Content, without any obligation to you. Any such submission by you shall not create any contractual
+relationship between you and Games United. Except to the extent that any such waiver is prohibited
+by law, you hereby waive the benefit of any provision of law known as "moral rights" or "droit
+moral" or any similar law in any country of the world, regardless of whether User Content is altered
+or changed in any manner.
+(iii) As a user, you are personally and solely responsible for all information posted and/or sent,
+transmitted, or provided to others by you in connection with our Services, including but not limited
+to User Content posted in forums, blogs, and player chat features. You represent, warrant, and affirm
+that your User Content is accurate, that it does not violate any applicable laws or rights especially
+the copyright, trademark, patent, trade secret or other intellectual property rights of any third party,
+that you have the appropriate permissions or rights from any third parties whose information or
+intellectual property is comprised in the User Content, and that such User Content is free of malware,
+viruses, adware, spyware or any malicious code. You agree not to submit and/or transmit any User
+Content that is unlawful, tortious, defamatory, libelous, obscene, invasive of the privacy of another
+person, threatening, harassing, abusive, violent, hateful, racist, or otherwise objectionable or
+inappropriate. We do not assume any liability or responsibility for any user behavior or for
+monitoring User Content or conduct in connection with Services. We may, but are not obligated to,
+review, monitor, reject, deny, or remove User Content, at our sole discretion and at any time and for
+any reason, without notice to you.
+(iv) Though it is not obligated to, Games United reserves the right in its sole discretion to monitor,
+prohibit, review, edit, delete and/or disable access to or make unavailable any User Content without
+notice for any reason or for no reason at any time for the purpose of operating the Services, to ensure
+compliance with these Terms and to comply with applicable law or other legal requirements. By
+accepting the Terms of Services, you hereby provide your irrevocable consent to such monitoring
+and recording. You acknowledge and agree that you have no expectation of privacy concerning the
+transmission of any User Content, including, without limitation, chat text or voice communications.
+(v) Games United provides fun pages, forums, blogs and chat features in the Services, in which
+users can post information. Users may post topics of interest, general information, comments and
+sometimes even personal information in these mediums. You understand that Games United is not
+responsible for any information posted in the Services or whether others will view your information,
+comments and topics in the same light. Please do not submit, upload, write or transmit any
+information in the Services you deem to be confidential. Games United does not and will not bear
+any responsibility or liability of the use of any such information. Furthermore, no compensation will
+be provided for any ideas, schemes or uses of any information provided in these medium.
+(vi) You are solely responsible for your interactions with other users of the Services and any other
+parties with whom you interact through the Services or the games. Games United reserves the right,
+but has no obligation, to become involved in any way with these disputes. You will fully cooperate
+with Games United to investigate any suspected unlawful, fraudulent or improper activity, including,
+without limitation, granting Games United access to any password-protected portions of your
+Account.
+(vii) If you have a dispute with one or more users, you release us (and Games United’s officers,
+directors, agents, subsidiaries, joint ventures and employees) from claims, demands and damages
+(actual and consequential) of every kind and nature, known and unknown, arising out of or in any
+way connected with such disputes.
+4.2. Please do not use these mediums to share or post information you wish to remain confidential.
+However, User Content may be processed by us in accordance with our Privacy Policy. Please contact
+us if you have questions regarding your User Content or Account by emailing us at
+privacy@gamesunited.co.
+
+5. FEES AND PURCHASE TERMS
+
+5.1. Any time you purchase virtual currency (including but not limited to virtual cash and other ingame premium currency), virtual in-game items, and any other premium goods or services in connection
+with our Services (collectively, “Virtual Items”) with real currency (i.e., real world money), Games
+United grants you a limited, personal, non-transferable, non-sublicensable, revocable license to use such
+Virtual Items. All purchases and redemptions of such Virtual Items through our Services are final and
+non-refundable, unless otherwise determined by us. Games United may manage, regulate, control,
+modify or eliminate Virtual Items at any time, with or without notice to you. Games United will have
+no liability to you or any third party in the event that
+Games United exercises any such rights.
+5.2. Virtual Items have no real-world value. Other than as expressly authorized in our Services, you
+may not sell, redeem or otherwise transfer Virtual Items to any person or entity, including but not limited
+to Games United, another user or any third party.
+5.3. You understand that use of Services may result in charges to you, and you agree to pay all fees
+and applicable taxes incurred by you or anyone using your Account. Payments will be enabled using
+the payment method tied to your Account. We may revise the pricing for the goods and services offered
+through our Services at any time. We may also from time to time provide certain users with offers and
+discounts that may result in different amounts charged for the same or similar services or goods obtained
+through the use of Services, and you agree that such offers and discounts, unless also made available to
+you, shall have no bearing on your use of Services or payments charged to your Account. You
+acknowledge and agree that we are under no obligation to provide you with a refund for any items
+(including Virtual Items) that are in your Account, for any reason, including but not limited to
+termination of your Account or when closing your Account, whether such actions are voluntary or
+involuntary.
+
+6. UPDATES TO OUR SERVICE
+
+6.1. These Terms constitute the entire agreement between you and Games United relating to the
+subject matter hereof. Games United may, from time to time, change, modify or update these Terms,
+and the revised Terms will apply prospectively. While Games United will make all reasonable efforts
+to inform you of any such updates, you acknowledge and agree that Games United may update Services,
+with or without informing or otherwise notifying you. For easier reference, Games United will mention
+that as “Last Revised” date above.
+
+7. DISCLAIMER OF WARRANTIES
+
+7.1. Without limiting Games United’s liability under Section 8 below, Services are provided on an
+“as is” and “as available” basis for your use, with no warranties of any kind, express or implied,
+including without limitation the warranties of merchantability, fitness for a particular purpose, title,
+non-infringement, and those arising from course of dealing or usage of trade, and all use is at your own
+risk. Games United does not warrant that you will be able to access or use our Service at the times or
+locations of your choosing; that our Services will be of a certain quality or suitability or will be
+uninterrupted or error-free; that defects will be corrected; or that our Services are free of viruses or other
+harmful components.
+
+8. LIMITATION OF LIABILITY AND INDEMNITY
+
+8.1. Limitation of Liability
+To the maximum extent permitted by law, Games United shall not be liable to you for any indirect,
+incidental, consequential, special, punitive or other similar damages, including, but not limited to, loss
+of revenues, lost profits, lost data or business interruption or other intangible losses (however such
+losses are qualified), arising out of or relating in any way to these terms of services or the services itself,
+whether based on contract, tort or any other legal theory, and whether or not Games United has been
+advised of the possibility of such damages.
+Games United shall not be liable to you for more than the amount you have paid to Games United in
+accordance with these terms of services in the six (6) months immediately preceding the date on which
+you first assert a claim. You acknowledge and agree that if you have not paid anything to Games United
+during such time period, your sole remedy (and Games United’ exclusive liability) for any dispute with
+Games United is to stop using the services and cancel your account.
+Some jurisdictions do not allow the exclusion of certain warranties or the limitation or exclusion of
+liability for certain types of damages. Accordingly, some of these disclaimers and limitations may not
+apply to you. To the extent that Games United may not, as a matter of applicable law, disclaim any
+warranty or limit its liability as set forth herein, the scope of such warranty and the extent of Games
+United’ liability shall be the minimum permitted under such applicable law. In particular, nothing in
+these Terms of Services shall affect the statutory rights of any consumer or exclude or restrict any
+liability for death or personal injury arising from any negligence or fraud of Games United.
+8.2. Indemnification
+You agree to defend and indemnify Games United, its companies, officers, directors, contractors,
+employees, agents, third-party suppliers, licensors, partners and affiliates against and from any thirdparty claims, liabilities, losses, injuries, damages, costs or including legal fees and expenses incurred
+by Games United arising out of or relating to:
+(i) your use or misuse of our Services or goods or services obtained in connection therewith;
+(ii) any breach or violation of these Terms;
+(iii) our use of your User Content; or
+(iv) any breach of the representations, warranties, and covenants made by you herein.
+8.3. We reserve the right, at your expense, to assume the exclusive defense and control of any matter
+for which you are required to indemnify us, and you agree to cooperate with our defense of these claims.
+We will use reasonable efforts to notify you of any such matter upon becoming aware of it.
+You agree that the provisions in this paragraph will survive any termination of your Account(s) or of
+our Services.
+9. GOVERNING LAW and DISPUTE RESOLUTION
+9.1. If a dispute arises between you and us, we prefer amicable resolution to protracted legal battles.
+To that end, we have created an informal dispute resolution program we believe can resolve most
+matters. Before initiating any court proceeding, you must first exhaust the step below to resolution:
+ESCALATION: If you’ve followed the above steps, but you feel that the issue remains unresolved after
+our agents have stated that a matter is closed, please email us at support@gamesunited.co and specify
+the issue you believe is unresolved. Our player care leads will work with you further to resolve your
+issue. In some cases, we may address the issue remotely. In others, we may ask to speak with you
+directly and will arrange a mutual time to discuss your matter. If you provide us with your phone number
+for this purpose, it will not be used for other purposes.
+9.2. This Agreement shall be governed by and construed in accordance with the laws of Switzerland
+without reference to its choice of law rules.
+9.3. You agree that you can only bring claims against Games United on an individual basis. You
+cannot bring a claim as a plaintiff or class member in a class, collective, consolidated, or representative
+action. The provisions of the U.N. Conventions on Contracts for the International Sale of Goods and
+any other applicable arbitration rules shall not apply to any matters related to these Terms applications.
+10. GENERAL PROVISIONS
+10.1. Severability
+You and Games United agree that if any portion of these Terms is found unlawful, void, or for any
+reason unenforceable, in whole or in part, that provision will be ineffective only to the extent of such
+finding and as to such jurisdiction, without affecting the validity or enforceability thereof in any other
+manner or jurisdiction and without affecting the remaining provisions of these Terms, which will be
+enforced to the fullest extent of the law. No amendment or severing of any provision of these Terms
+shall affect the validity or enforceability of any remaining provisions.
+10.2. Assignment
+Games United may assign or delegate these Terms, in whole or in part, to any person or entity at any
+time with or without your approval.
+10.3. Force Majeur
+We will not be liable for any delay or failure to perform resulting from causes outside of our reasonable
+control, including without limitation any failure to perform hereunder due to unforeseen circumstances
+or causes such as acts of God, war, terrorism, riots, embargoes, acts of civil or military authorities, fires,
+floods, accidents, strikes, or shortages of transportation facilities, fuel, energy, labor or materials.
+10.4. Claims of Copyright Infringement
+The Digital Millennium Copyright Act of 1998 (the “DMCA”) provides recourse for copyright owners
+who believe their rights under US copyright law have been infringed. If you believe in good faith that
+materials hosted by us infringe your copyright (for example, materials posted by a user on one of our
+forums), you or your agent can send us a notice requesting that the material be removed or access to it
+blocked.
+If you believe your copyright-protected work has been posted on Services in a way that constitutes
+copyright infringement (please consult an attorney to better understand your rights and obligations
+under Section 512(c) of the Copyright Act and other laws), please contact our DMCA Agent with a
+notice containing the following information:
+● Reasonably sufficient details to enable us to identify the work claimed to be infringed (e.g., title,
+author, any registration or tracking number, URL) or, in the case of multiple works, a representative
+list of such works;
+● Reasonably sufficient details to enable us to identify and locate the material claimed to be infringing
+(e.g., a link to the page that contains the material);
+● Your name, address, telephone number, and, if available, email address;
+● A statement that you have a good faith belief that the use of the material identified above is not
+authorized by the copyright owner, its agent, or the law;
+● A written statement, under penalty of perjury, that the information in your notice is accurate and
+that you are authorized to act on behalf of the owner of the exclusive right that is alleged to be
+infringed; and
+● Your physical or electronic signature.
+If you believe material that you have posted to Services has been improperly taken down, you may file
+a written counter-notice with our DMCA Agent. Please include the following details:
+● Identification of the material that has been removed or to which access has been disabled and the
+location at which it appeared before it was removed or disabled;
+● A statement, under penalty of perjury, that you have a good faith belief that the material was
+removed or disabled as a result of mistake or misidentification;
+● Your name, address, telephone number, and, if available, email address;
+● A statement that you consent to the jurisdiction of the Federal District Court for the judicial district
+in which your address is located or, if your address is outside the US, for any judicial district in
+which Games United may be found, and that you will accept service of process from the person
+who submitted a notice in compliance with Section (c)(1)(C) of the DMCA, as described above;
+and
+● Your physical or electronic signature.
+DMCA notices must meet current statutory requirements imposed by the DMCA.
+Please send DMCA notices to our DMCA Agent at the following address: DMCA Agent, Games United
+Yazılım Eğitim Sanayi Ticaret A.Ş, ARNAVUTKÖY MAH.BEBEK ARNAVUTKÖY CAD. İNCİ
+YALI NO: 28 İÇ KAPI:2 BEŞİKTAŞ or by email (subject line “DMCA Communication”)
+support@gamesunited.co
+Please note that under Section 512(f) of the Copyright Act, any person who knowingly materially
+misrepresents that material or activity is infringing, or that material or activity was removed or disabled
+by mistake, may be subject to liability. Please also be advised that we enforce a policy of terminating
+the Accounts of repeat infringers (i.e., users who have made two or more postings for which we receive
+a notice of infringement).
+Games United’s DMCA Agent should be contacted only for the purposes set forth in this Section.
+NON-DMCA INQUIRIES DIRECTED TO GAMES UNITED’S DMCA AGENT WILL NOT BE
+ANSWERED. MISUSE OF THE DMCA CAN SUBJECT YOU TO LIABILITY.
+10.5. Entire Agreement
+These Terms, including any additional policies and documents referenced in this agreement, are the
+entire agreement between you and Games United. They supersede all prior understandings between you
+and Games United, regardless of the medium (oral, written electronic) and practice (custom, policy,
+course of business, precedent) by which such understandings were communicated.
+10.6. No Waiver
+Any failure of Games United to enforce any right or provision in these Terms shall not constitute a
+waiver or relinquishment of such right or provision unless acknowledged and agreed to by us in writing.
+The express waiver by Games United of any provision, condition, or requirement of these Terms will
+not constitute a waiver of any future obligation to comply with such provision, condition or requirement.
+Except as expressly and specifically set forth in these Terms, no representations, statements, consents,
+waivers, or other acts or omissions by Games United will be deemed a modification of these Terms or
+legally binding, unless documented in physical writing, hand signed by both you and a duly appointed
+officer of Games United.
+10.7. Notices
+We may give notice to you via: (i) postings on Services; (ii) email, telephone, or text message to any
+email address or phone number connected with your Account; (iii) written communication sent by mail
+to any address connected with your Account. All notices given by you or required from you under these
+Terms must be in writing and addressed to: Games United Yazılım Eğitim Sanayi Ticaret AŞ.
+ARNAVUTKÖY MAH.BEBEK ARNAVUTKÖY CAD. İNCİ YALI NO: 28 İÇ KAPI:2 BEŞİKTAŞ.
+Any notices that you provide without compliance with this subsection will have no legal effects.
